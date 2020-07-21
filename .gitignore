@@ -1,0 +1,6 @@
+*.pth
+*.pyc
+wandb/*
+logs/*
+.ipynb_checkpoints/*
+models/*
